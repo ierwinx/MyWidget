@@ -1,15 +1,8 @@
-//
-//  ContentView.swift
-//  MyWidget
-//
-//  Created by Erwin Luz León on 02/09/22.
-//
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Sal de la app y agrega el Widget al dashboard")
             .padding()
     }
 }
